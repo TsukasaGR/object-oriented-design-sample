@@ -18,7 +18,7 @@ class AggregatedRelatedWord
     public $ratio;
 
     /**
-     * KeywordWithRelatedWord constructor.
+     * AggregatedRelatedWord constructor.
      * @param int $keyword_id
      * @param string $body
      * @param string $form

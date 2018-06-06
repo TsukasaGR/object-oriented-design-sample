@@ -14,7 +14,7 @@ class AggregatedRelatedWordsSummary
     public $related_words;
 
     /**
-     * KeywordWithRelatedWordsSummary constructor.
+     * AggregatedRelatedWordsSummary constructor.
      * @param Keyword $keyword
      */
     public function __construct(int $keyword_id)
